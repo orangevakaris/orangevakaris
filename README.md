@@ -1,16 +1,16 @@
-## Hi there 👋
+# Orange Vakaris
 
-<!--
-**orangevakaris/orangevakaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Public-source developer tooling and practical code-risk review.
 
-Here are some ideas to get you started:
+## Available now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Public Code Risk Brief](https://orangevakaris.github.io/public-code-risk-brief/) provides a concise, evidence-linked review of a public GitHub repository:
+
+- architecture and visible trust boundaries;
+- high-risk implementation paths;
+- dependency, CI, and configuration concerns; and
+- prioritized remediation questions.
+
+Requests are settled with native USDC on Base and delivered publicly on GitHub. The service reviews public source only: it does not accept secrets, execute repository code, or probe live targets.
+
+[View the request and payment workflow](https://orangevakaris.github.io/public-code-risk-brief/)
