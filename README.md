@@ -4,6 +4,8 @@ Public-source developer tooling and practical code-risk review.
 
 ## Available now
 
+[GitHub Change Risk](https://github.com/orangevakaris/github-change-risk) is an installable GitHub Action for deterministic risk summaries on public compare ranges. Its free workflow output provides an aggregate score and level; a confirmed `0.01 USDC` Base payment optionally unlocks the per-file report.
+
 [GitHub Change Risk API](https://76.13.79.47.nip.io/) provides deterministic risk signals for public GitHub compare ranges:
 
 - free aggregate preview reports;
