@@ -4,6 +4,14 @@ Public-source developer tooling and practical code-risk review.
 
 ## Available now
 
+[GitHub Change Risk API](https://76.13.79.47.nip.io/) provides deterministic risk signals for public GitHub compare ranges:
+
+- free aggregate preview reports;
+- per-file status and risk tags for `0.01 USDC` on Base; and
+- no repository execution, private access, or live-target probing.
+
+[Read the API and payment documentation](https://76.13.79.47.nip.io/)
+
 [Public Code Risk Brief](https://orangevakaris.github.io/public-code-risk-brief/) provides a concise, evidence-linked review of a public GitHub repository:
 
 - architecture and visible trust boundaries;
